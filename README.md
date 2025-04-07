@@ -5,12 +5,13 @@ Welcome to this ML tour of classifiers! 📊 Dive into various machine learning 
 ## 📁 Repository Structure
 
 - [`comparing_classifiers.ipynb`](comparing_classifiers.ipynb) - 🏆 Main notebook comparing multiple classifiers
-- [`CA1/CA1_spotify.ipynb`](CA1/CA1_spotify.ipynb) - 🎵 Case study on Spotify data analysis
-- [`CA2/CA2.ipynb`](CA2/CA2.ipynb) - 📈 Second case study with classifier implementations
-- [`CA3`](CA3) - 🔬 Detailed comparison of different classifiers:
+- [`CA1/CA1_spotify.ipynb`](CA1/CA1_spotify.ipynb) - 🎵 Spotify data analysis
+- [`CA2/CA2.ipynb`](CA2/CA2.ipynb) - 📈 Classifier implementations. Basic pipeline
+- [`CA3`](CA3) - 🔬 Classification on Bananas: 
   - CA3_anekleiven_KNN.ipynb - 🏘️ K-Nearest Neighbors implementation
   - CA3_anekleiven_randomforest.ipynb - 🌲 Random Forest implementation
   - CA3_anekleiven_SVM.ipynb - ✂️ Support Vector Machine implementation
+- [`CA4`](CA4) - 🧪 Classifying stellar objects using pipelines & CV
 
 ## 🚀 Getting Started
 
