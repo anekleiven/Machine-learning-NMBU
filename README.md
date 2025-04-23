@@ -11,7 +11,8 @@ Welcome to this ML tour of classifiers! 📊 Dive into various machine learning 
   - CA3_anekleiven_KNN.ipynb - 🏘️ K-Nearest Neighbors implementation
   - CA3_anekleiven_randomforest.ipynb - 🌲 Random Forest implementation
   - CA3_anekleiven_SVM.ipynb - ✂️ Support Vector Machine implementation
-- [`CA4`](CA4) - 🧪 Classifying stellar objects using pipelines & CV
+- [`CA4`](CA4) - 🧪 Classifying stellar objects using Pipelines & CV
+- [`CA5`](CA5) - 🔍 Predicting Pepper Spiciness using Regression and Ensemble techniques 
 
 ## 🚀 Getting Started
 
